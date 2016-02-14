@@ -1,0 +1,28 @@
+name: 'Tomorrow, Today.'
+favicon: null
+layout_spectrum: 0.765497536631301
+typography_spectrum: 0.8096346473321319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6070529285352677
+  lightness: 0.6750714958179742
+  saturation: 0.6153222382999957
+  rhythmicContrast: 0.7600785959511995
+purpose: []
