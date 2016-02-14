@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tomorrow, Today.]]></title>
         <description><![CDATA[Tomorrow, Today.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tomorrow-today/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 04:08:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 04:11:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tomorrow-today/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> If you ain't pursuing your dreams, your goals, you're committing a slow suicide of your soul. No fear. Only love. 🙌🏽 </p>]]></description>
-            <link>undefined7c371258-af4e-4578-b90d-1129718b4c29/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d380e79-09bf-4a2b-9c4c-8bd91731ff9c.png">]]></description>
+            <link>https://thegrid.ai/tomorrow-today/7c371258-af4e-4578-b90d-1129718b4c29/index.html</link>
             <guid isPermaLink="false">7c371258-af4e-4578-b90d-1129718b4c29</guid>
-            <pubDate>Sun, 14 Feb 2016 04:07:57 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 04:10:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
