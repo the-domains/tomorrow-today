@@ -1,28 +1,40 @@
-name: 'Tomorrow, Today.'
-favicon: null
-layout_spectrum: 0.66645
-typography_spectrum: 0.78815
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#b3d0f1'
-    - '#7087b8'
-    - '#5c9bd4'
-    - '#9cb2c5'
-    - '#53b6e6'
-  brandStrength: 0.6070529285352677
-  lightness: 0.6750714958179742
-  saturation: 0.6153222382999957
-  rhythmicContrast: 0.7600785959511995
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8727598
+  brandStrength: 0.6070529285352677
+  lightness: 0.6750715
+  brandColors:
+    - '#FFF871'
+    - '#020102'
+    - '#4A4300'
+    - '#868016'
+    - '#BEBC42'
+  rhythmicContrast: 0.7234169
+typography_spectrum: 0.6194743
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: 'Tomorrow, Today.'
